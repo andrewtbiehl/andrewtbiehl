@@ -6,7 +6,8 @@ things like [turning code upside-down](https://andrewtbiehl.com/blog/upside-down
 and [improving data classes](https://andrewtbiehl.com/blog/improving-data-classes).
 
 My latest software project is a
-[Tree-sitter-based highlighter plugin for Kramdown](https://github.com/andrewtbiehl/kramdown-syntax_tree_sitter).
+[Tree-sitter-based highlighter plugin for Kramdown](https://github.com/andrewtbiehl/kramdown-syntax_tree_sitter),
+which I dogfood on my blog for improved code highlighting.
 
 Feel free to reach out! My contact information can be found
 [here](https://andrewtbiehl.com/about#contact-me).
